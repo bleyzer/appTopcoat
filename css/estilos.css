@@ -1,0 +1,42 @@
+.ceroPadding{
+	padding-top: 2px;
+	padding-bottom: 2px;
+	list-style: none;
+}
+
+.byeMargin{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.byeMarginTop{
+	margin-top: 0px;
+}
+
+.hiOrange{
+	color: orange;
+}
+
+.hiGray{
+	color: #808080;
+}
+
+.btnListView{
+	width: 40px;
+    padding-right: 0px;
+    padding-left: 0px;
+    border-left-width: 1px;
+}
+
+.btnCart{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	border-top-width: 0px;
+	border-bottom-width: 0px;
+	padding-left: 0px;
+	border-right-width: 0px;
+	padding-right: 0px;
+	height: 50px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
