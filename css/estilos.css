@@ -22,21 +22,67 @@
 }
 
 .btnListView{
-	width: 40px;
-    padding-right: 0px;
-    padding-left: 0px;
-    border-left-width: 1px;
+	width: 27px !important;
+	height: 30px;
+    padding: 0px;
+	margin-bottom: 0px;
+	margin-top: 0px;	
 }
 
 .btnCart{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	border-top-width: 0px;
-	border-bottom-width: 0px;
-	padding-left: 0px;
-	border-right-width: 0px;
-	padding-right: 0px;
-	height: 30px;
+	padding: 0px;
+	border: 0px;	
 	margin-bottom: 0px;
 	margin-top: 0px;
+	width: 35px;
+    height: 35px;
 }
+
+.headerList{
+	padding-top:5px; 
+    padding-bottom: 5px;
+    height: 20px;
+    font-size: 1.1em !important;
+}
+
+.notification{
+	height: 20px;
+	padding: 0px;
+	padding-left: 5px;
+	padding-right: 5px;
+	width: 20px;
+	background-color: orange !important;
+}
+
+.primerElement{
+	height: 35px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    list-style: none;
+}
+
+.imgListView{
+	width: 20px;
+    height: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.imgUnder{
+	padding-bottom: 0px;
+    padding-top: 5px;
+    margin-left: 5px;
+}
+
+.imgCart{
+	padding-bottom: 0px;              
+    width: 34px;
+    height: 35px;
+}
+
+.listBest{
+	padding-top: 5px;
+    padding-bottom: 5px;
+    list-style: none;
+}
+
